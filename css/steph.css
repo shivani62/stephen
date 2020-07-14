@@ -1,0 +1,93 @@
+.heading {
+  font-weight: bolder;
+  margin-top: 100px;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.headline {
+  font-weight: bold;
+  margin: 8px auto 0 auto;
+}
+
+body {
+  background-color: #12cad6;
+  margin: 0px;
+  padding: 0;
+  text-align: center;
+  font-family: trajan pro, serif;
+}
+
+.top-cloud {
+  height: 40px;
+  width: 15%;
+  right: 350px;
+  top: 60px;
+  position: absolute;
+}
+
+.bottom-cloud {
+  height: 40px;
+  width: 15%;
+  right: 1000px;
+  top: 200px;
+  position: absolute;
+}
+
+#vampire {
+  height: 500px;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.profile {
+  height: 600px;
+  width: 100%;
+  background-color: #086972;
+}
+
+#pro {
+  margin-top: 10px;
+  height: 400px;
+  width: 20%;
+  border-radius: 100%;
+
+}
+
+.memory {
+  background-image: linear-gradient(#e36387, #f2aaaa, #a6dcef);
+  height: 600px;
+  width: 100%;
+}
+
+.mem {
+  height: 300px;
+  width: 300px;
+}
+
+.mem2 {
+  height: 300px;
+  width: 300px;
+}
+
+.contact-me {
+  background-color: #a6dcef;
+  height: 300px;
+  width: 100%;
+}
+
+.mystic {
+  height: 300px;
+  width: 300px;
+}
+
+.brew {
+  height: 300px;
+  width: 250px;
+}
+hr{
+  border: dotted #e79cc2 5px;
+    width: 5%;
+    border-bottom: none;
+}
